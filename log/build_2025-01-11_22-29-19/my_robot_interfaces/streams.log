@@ -1,0 +1,26 @@
+[0.010s] Invoking command in '/home/kholioism/ros2_ws/src/build/my_robot_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kholioism/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/kholioism/ros2_ws/src/my_robot_interfaces -DCMAKE_INSTALL_PREFIX=/home/kholioism/ros2_ws/src/install/my_robot_interfaces
+[0.217s] -- The C compiler identification is GNU 13.3.0
+[0.407s] -- The CXX compiler identification is GNU 13.3.0
+[0.437s] -- Detecting C compiler ABI info
+[0.610s] -- Detecting C compiler ABI info - done
+[0.636s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.637s] -- Detecting C compile features
+[0.637s] -- Detecting C compile features - done
+[0.656s] -- Detecting CXX compiler ABI info
+[0.801s] -- Detecting CXX compiler ABI info - done
+[0.817s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.818s] -- Detecting CXX compile features
+[0.819s] -- Detecting CXX compile features - done
+[0.825s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.177s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.350s] -- Found rosidl_default_generators: 1.6.0 (/opt/ros/jazzy/share/rosidl_default_generators/cmake)
+[1.375s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.527s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.645s] -- Found rosidl_adapter: 4.6.4 (/opt/ros/jazzy/share/rosidl_adapter/cmake)
+[2.737s] -- Found ament_cmake_ros: 0.12.0 (/opt/ros/jazzy/share/ament_cmake_ros/cmake)
+[3.575s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[4.385s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[4.391s] -- Found python_cmake_module: 0.11.1 (/opt/ros/jazzy/share/python_cmake_module/cmake)
+[4.599s] -- Found PythonExtra: /usr/bin/python3  
+[5.439s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter Development NumPy Development.Module Development.Embed 
+[5.593s] Invoked command in '/home/kholioism/ros2_ws/src/build/my_robot_interfaces' returned '-2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kholioism/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/kholioism/ros2_ws/src/my_robot_interfaces -DCMAKE_INSTALL_PREFIX=/home/kholioism/ros2_ws/src/install/my_robot_interfaces
