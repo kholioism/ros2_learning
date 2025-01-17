@@ -1,0 +1,21 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from my_robot_interfaces/srv/SetLED.srv
+// generated code does not contain a copyright notice
+
+
+module my_robot_interfaces {
+  module srv {
+    @verbatim (language="comment", text=
+      "True for charged battery and False for low battery")
+    struct SetLED_Request {
+      boolean led1;
+
+      boolean led2;
+
+      boolean led3;
+    };
+    struct SetLED_Response {
+      boolean success;
+    };
+  };
+};

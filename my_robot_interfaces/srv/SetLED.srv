@@ -1,0 +1,6 @@
+#True for charged battery and False for low battery
+bool led1
+bool led2
+bool led3
+---
+bool success

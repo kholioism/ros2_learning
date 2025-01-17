@@ -1,0 +1,7 @@
+/home/kholioism/ros2_ws/src/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:msg/HardwareStatus.idl
+/home/kholioism/ros2_ws/src/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:msg/LEDStates.idl
+/home/kholioism/ros2_ws/src/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:msg/Turtle.idl
+/home/kholioism/ros2_ws/src/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:msg/TurtleArray.idl
+/home/kholioism/ros2_ws/src/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:srv/ComputeRectangleArea.idl
+/home/kholioism/ros2_ws/src/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:srv/SetLED.idl
+/home/kholioism/ros2_ws/src/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:srv/CatchTurtle.idl
